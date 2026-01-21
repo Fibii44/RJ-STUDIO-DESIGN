@@ -1,8 +1,6 @@
-# RJ Design Studio | Portfolio | Architectural Scheduling System 
+# RJ Design Studio & Construction Services | Portfolio | Architectural Scheduling System 
 
-<p align="center">
-    <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600" width="100%" alt="RJ Design Studio Banner" style="border-radius: 8px;">
-</p>
+![477033387_122110292588726000_7615423118352537472_n](https://github.com/user-attachments/assets/baf522b9-0e08-48ef-bae2-919c5b9894f2)
 
 ## 🏛️ About the Project
 This is a bespoke **Architectural Project Management and Scheduling System** built for **RJ Design Studio**. The platform serves as a bridge between the architect and the client, allowing for seamless communication, project tracking, and appointment booking.
